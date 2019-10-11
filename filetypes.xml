@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.mvn;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="程序员面试金典" type="PLAIN_TEXT" />
+      <mapping pattern="tempFile" type="PLAIN_TEXT" />
+      <mapping pattern="剑指offer剩余的几个题" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="程序员面试经典" type="PLAIN_TEXT" />
+      <mapping ext="c-" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

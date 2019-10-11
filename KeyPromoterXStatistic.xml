@@ -1,0 +1,1396 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add New Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
+          <ShortCut>'Alt+A'</ShortCut>
+          <Description>Add New Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+向左箭头'</ShortCut>
+          <Description>Back</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Branches...">
+        <Item>
+          <IdeaActionID>Git.Branches</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+`'</ShortCut>
+          <Description>Branches...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="DDL">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Home'</ShortCut>
+          <Description>DDL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Data Source Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Data Source Properties</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5' or 'Alt+4'</ShortCut>
+          <Description>Debug</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '$分割数组的最大值'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug '$分割数组的最大值'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'App'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+F10'</ShortCut>
+          <Description>Debug 'App'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AppTest.shouldAnswerWithTrue'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug 'AppTest.shouldAnswerWithTrue'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'LIS未完全解决'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug 'LIS未完全解决'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Main (1)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug 'Main (1)'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Main (2)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug 'Main (2)'</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Main (3)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug 'Main (3)'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Main'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug 'Main'</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ProviderApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug 'ProviderApplicationTests.contextLoads'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '位1的个数'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug '位1的个数'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '兑换零钱'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug '兑换零钱'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '寻找两个有序数组的中位数'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug '寻找两个有序数组的中位数'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '广度遍历'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug '广度遍历'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '第K个大的数'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug '第K个大的数'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '进制转换'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug '进制转换'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '逆序对未解决'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F10'</ShortCut>
+          <Description>Debug '逆序对未解决'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>FileChooser.Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Desktop Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoDesktop</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Desktop Directory</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Directory">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Insert'</ShortCut>
+          <Description>Directory</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Drop">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Drop</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Home Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
+          <ShortCut>'Ctrl+1'</ShortCut>
+          <Description>Home Directory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Folder...">
+        <Item>
+          <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
+          <ShortCut>'Ctrl+N'</ShortCut>
+          <Description>New Folder...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Watch...">
+        <Item>
+          <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
+          <ShortCut>'Insert'</ShortCut>
+          <Description>New Watch...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Preview the current selected bug.">
+        <Item>
+          <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
+          <ShortCut>'Alt+Q'</ShortCut>
+          <Description>Preview the current selected bug.</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>96</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoProject</IdeaActionID>
+          <ShortCut>'Ctrl+2'</ShortCut>
+          <Description>Project Directory</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+K'</ShortCut>
+          <Description>Push...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Reload Page</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AppTest.shouldAnswerWithTrue'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5' or 'Alt+F12'</ShortCut>
+          <Description>Rerun 'AppTest.shouldAnswerWithTrue'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'EveryItemSingle'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'EveryItemSingle'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LIS'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'LIS'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LIS未完全解决'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'LIS未完全解决'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LPalindromicSubstring'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'LPalindromicSubstring'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LRUCache'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'LRUCache'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Main (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'Main (1)'</Description>
+          <Count>61</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Main (2)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'Main (2)'</Description>
+          <Count>36</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Main (3)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'Main (3)'</Description>
+          <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Main'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'Main'</Description>
+          <Count>85</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'NewbieConsumerApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'NewbieConsumerApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PrimitiveType'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'PrimitiveType'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Provider'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'Provider'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RandomWithMath'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'RandomWithMath'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RmqApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'RmqApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'gradle-mybatis-generator [mybatisGenerate]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun 'gradle-mybatis-generator [mybatisGenerate]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '二叉树的序列化'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '二叉树的序列化'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '位1的个数'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '位1的个数'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '兑换零钱'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '兑换零钱'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '全排列有重复Test.permuteUnique'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '全排列有重复Test.permuteUnique'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '判断二分图'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '判断二分图'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '前序遍历'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '前序遍历'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '又上锁妖塔'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '又上锁妖塔'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '和为S的连续正数序列'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '和为S的连续正数序列'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '哈夫曼树'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '哈夫曼树'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '复原IP'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '复原IP'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '寻找两个有序数组的中位数'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '寻找两个有序数组的中位数'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '广度遍历'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '广度遍历'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '归并排序'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '归并排序'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '循环删除'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '循环删除'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '快速排序'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '快速排序'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '扔鸡蛋未解决'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '扔鸡蛋未解决'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '无价值背包问题'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '无价值背包问题'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '最小覆盖子串'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '最小覆盖子串'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '构建乘积数组'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '构建乘积数组'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '深度遍历'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '深度遍历'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '组合有重复Test.combine'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '组合有重复Test.combine'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '解码方法'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '解码方法'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '进制转换'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '进制转换'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '迷宫路径'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun '迷宫路径'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '逆序对$这些网站测试用例都不对啊'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '逆序对$这些网站测试用例都不对啊'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun '逆序对未解决'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Rerun '逆序对未解决'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>Run</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '$分割数组的最大值'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '$分割数组的最大值'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'App'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10' or 'F11'</ShortCut>
+          <Description>Run 'App'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'BootMoreApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'BootMoreApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Consumer'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'Consumer'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ConsumerApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'ConsumerApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Main (1)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'Main (1)'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Main (2)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'Main (2)'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Main (3)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'Main (3)'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Main'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'Main'</Description>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PrepareApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+F11'</ShortCut>
+          <Description>Run 'PrepareApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Provider'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'Provider'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ProviderApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'ProviderApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TestNGDemoTest.testN...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Alt+F11'</ShortCut>
+          <Description>Run 'TestNGDemoTest.testN...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ValidateDemoApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'ValidateDemoApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'gradle-mybatis-generator [mybatisGenerate]'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run 'gradle-mybatis-generator [mybatisGenerate]'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '位1的个数'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '位1的个数'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '兑换零钱'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '兑换零钱'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '全排列'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '全排列'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '分割回文串'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '分割回文串'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '寻找两个有序数组的中位数'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '寻找两个有序数组的中位数'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '广度遍历'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '广度遍历'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '无价值背包问题'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '无价值背包问题'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '逆序对未解决'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Run '逆序对未解决'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'Alt+F9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>Scratch File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>82</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Diagram...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Local Changes as UML">
+        <Item>
+          <IdeaActionID>UML.ShowChanges</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+D'</ShortCut>
+          <Description>Show Local Changes as UML</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Translation Dialog...">
+        <Item>
+          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Show Translation Dialog...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Source Editor</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop">
+        <Item>
+          <IdeaActionID>RunDashboard.Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '$分割数组的最大值'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '$分割数组的最大值'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'App'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'F12'</ShortCut>
+          <Description>Stop 'App'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AppTest.shouldAnswerWithTrue'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'F12'</ShortCut>
+          <Description>Stop 'AppTest.shouldAnswerWithTrue'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Consumer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'Consumer'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'EveryItemSingle'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'EveryItemSingle'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'HelloSpringApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'F12'</ShortCut>
+          <Description>Stop 'HelloSpringApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'KafkaApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'KafkaApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LIS'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'LIS'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LISCnt未解决'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'LISCnt未解决'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LIS未完全解决'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'LIS未完全解决'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LPalindromicSubstring'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'LPalindromicSubstring'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Main (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'Main (1)'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Main (2)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'Main (2)'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Main (3)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'Main (3)'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Main'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'Main'</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'NewbieConsumerApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'NewbieConsumerApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PrepareApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'F12'</ShortCut>
+          <Description>Stop 'PrepareApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Provider'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'Provider'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ProviderApplicationTests.contextLoads'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'ProviderApplicationTests.contextLoads'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RmqApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'RmqApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestNGDemoTest.testNGdemo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'TestNGDemoTest.testNGdemo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'UTF8编码验证'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'UTF8编码验证'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ValidateDemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'ValidateDemoApplication'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'gradle-mybatis-generator [mybatisGenerate]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop 'gradle-mybatis-generator [mybatisGenerate]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '丑数'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '丑数'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '二叉树的序列化'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '二叉树的序列化'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '位1的个数'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '位1的个数'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '信件错排'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '信件错排'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '兑换零钱'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '兑换零钱'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '全排列Test.permute'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '全排列Test.permute'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '全排列有重复Test.permuteUnique'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '全排列有重复Test.permuteUnique'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '哈夫曼树'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '哈夫曼树'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '寻找两个有序数组的中位数'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '寻找两个有序数组的中位数'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '广度遍历'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '广度遍历'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '组合有重复Test.combine'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '组合有重复Test.combine'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '进制转换'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '进制转换'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '逆序对$这些网站测试用例都不对啊'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '逆序对$这些网站测试用例都不对啊'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '逆序对未解决'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '逆序对未解决'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '逆波兰表达式求值'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop '逆波兰表达式求值'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7' or 'Alt+2'</ShortCut>
+          <Description>Structure</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>192</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Translate">
+        <Item>
+          <IdeaActionID>$EditorTranslateAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Y'</ShortCut>
+          <Description>Translate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+B'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="VCS Operations Popup...">
+        <Item>
+          <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Alt+`'</ShortCut>
+          <Description>VCS Operations Popup...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>Graph.ZoomIn</IdeaActionID>
+          <ShortCut>'NumPad +' or '='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="go to definition">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>go to definition</Description>
+          <Count>177</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Ant Build">
+        <Item>
+          <IdeaActionID>ActivateAntBuildToolWindow</IdeaActionID>
+          <Description>Ant Build</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Bean Validation">
+        <Item>
+          <IdeaActionID>ActivateBeanValidationToolWindow</IdeaActionID>
+          <Description>Bean Validation</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <Description>Database</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <Description>Event Log</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Key Promoter X">
+        <Item>
+          <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
+          <Description>Key Promoter X</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="RestServices">
+        <Item>
+          <IdeaActionID>ActivateRestServicesToolWindow</IdeaActionID>
+          <Description>RestServices</Description>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

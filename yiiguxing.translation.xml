@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="abrupt" />
+      <item value="Abruptly" />
+      <item value="Wrong" />
+      <item value="Wronge" />
+      <item value="Correlation" />
+      <item value="suppress" />
+      <item value="springframework" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
+      </map>
+    </option>
+  </component>
+</application>

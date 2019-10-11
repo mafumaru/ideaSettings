@@ -1,0 +1,102 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.21" />
+            <entry key="copy-libs" value="true" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
+      </component>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/Home/Programming/Codes/Java/Dubbo/Demo/SpringBoot-Dubbo" value="PREVIEW" />
+            <entry key="C:/Home/Programming/Codes/Java/Dubbo/Demo/dubbo_demo" value="PREVIEW" />
+            <entry key="C:/Home/Programming/Codes/Java/Dubbo/Demo/spring-boot-dubbo-demo" value="PREVIEW" />
+            <entry key="C:/Home/Programming/Codes/Java/Dubbo/Demo2/SpringBoot-Dubbo" value="PREVIEW" />
+            <entry key="C:/Home/Programming/Codes/Java/Dubbo/Demo2/dubbo_demo" value="PREVIEW" />
+            <entry key="D:/Software/tmp/ssh-git/gitflow-demo" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="localRepository" value="C:\Home\Software\Dev\BackEnd\JavaDev\ProjectMangement\Maven\LocalRepo" />
+            <option name="mavenHome" value="C:/Home/Software/Dev/BackEnd/JavaDev/ProjectMangement/Maven/apache-maven-3.5.4" />
+            <option name="userSettingsFile" value="C:\Home\Software\Dev\BackEnd\JavaDev\ProjectMangement\Maven\apache-maven-3.5.4\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Problems" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
