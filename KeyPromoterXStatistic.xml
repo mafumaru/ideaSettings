@@ -518,7 +518,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'spring-framework-5.0.x [build]'</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'spring-framework-5.0.x:spring-oxm [compileTestJava]'">
@@ -958,7 +958,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>112</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2' or 'Shift+F10' or 'Alt+F12'</ShortCut>
           <Description>Stop 'spring-framework-5.0.x [build]'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '丑数'">
