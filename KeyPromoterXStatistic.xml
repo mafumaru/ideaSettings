@@ -513,6 +513,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'spring-framework-5.0.x [build]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'spring-framework-5.0.x [build]'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'spring-framework-5.0.x:spring-oxm [compileTestJava]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -742,7 +750,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Run</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '$分割数组的最大值'">
@@ -950,7 +958,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
