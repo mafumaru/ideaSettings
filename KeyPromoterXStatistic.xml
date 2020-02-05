@@ -310,7 +310,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
@@ -1207,6 +1207,14 @@
           <ShortCut>'F12'</ShortCut>
           <Description>Stop 'RmqApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringSrcTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2' or 'Shift+F10' or 'Alt+F12'</ShortCut>
+          <Description>Stop 'SpringSrcTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestNGDemoTest.testNGdemo'">
