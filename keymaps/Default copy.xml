@@ -60,6 +60,9 @@
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditFrameSource" />
   <action id="Debugger.EditTypeSource" />
+  <action id="Debugger.StepOutOfBlock">
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange" />
@@ -161,6 +164,7 @@
   <action id="Jdbc.RunSqlScript">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="f3" />
@@ -196,6 +200,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="alt f12" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="f1" />
@@ -237,12 +244,9 @@
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="alt f7" />
-    <keyboard-shortcut first-keystroke="shift f8" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="ctrl f2" />
-    <keyboard-shortcut first-keystroke="shift f10" />
-    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
@@ -250,6 +254,9 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="Vcs.EditSource" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
