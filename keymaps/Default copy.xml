@@ -204,6 +204,9 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
