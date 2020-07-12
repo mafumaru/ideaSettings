@@ -181,6 +181,7 @@
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="Move" />
   <action id="NavBar-navigate" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -268,6 +269,10 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+    <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="Vcs.EditSource" />
   <action id="ViewBreakpoints">
