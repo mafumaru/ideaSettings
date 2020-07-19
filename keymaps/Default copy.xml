@@ -56,6 +56,9 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="ContextHelp" />
+  <action id="CopyAsPlainText">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="CopyElement" />
   <action id="DSM.OpenInEditor" />
   <action id="DatabaseView.CopyTable" />
@@ -166,6 +169,7 @@
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="IntroduceConstant" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="alt j" />
@@ -182,6 +186,7 @@
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="Move" />
+  <action id="MybatisCodeHelperPro.ExtractSql" />
   <action id="NavBar-navigate" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt insert" />
