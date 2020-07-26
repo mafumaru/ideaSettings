@@ -130,6 +130,10 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -170,6 +174,8 @@
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="alt j" />
@@ -253,6 +259,7 @@
   <action id="ShowExecutionPoint">
     <keyboard-shortcut first-keystroke="shift f9" />
   </action>
+  <action id="ShowFilterPopup" />
   <action id="ShowUmlDiagramPopup" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />
