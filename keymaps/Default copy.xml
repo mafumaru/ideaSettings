@@ -294,4 +294,7 @@
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.SetValue" />
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
 </keymap>
